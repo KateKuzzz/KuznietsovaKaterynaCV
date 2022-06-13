@@ -1,0 +1,10 @@
+
+
+.resume {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
+    background-color: rgb(80, 179, 127);
+    margin:auto;
+    padding: 25px 25px 25px 25px;
+};
