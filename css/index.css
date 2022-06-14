@@ -7,6 +7,9 @@ body {
 img {
     border-radius: 60%;
 }
+ul {
+    padding: 15px;
+}
 
 
 .resume {
