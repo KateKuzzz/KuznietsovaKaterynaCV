@@ -19,9 +19,11 @@ ul {
 .name {
     
     border:  5px solid rgb(144, 135, 103);
-    padding-top: 10px;
+    
+    margin:0;
     margin-left: 25px;
     margin-bottom: 45px;
+    padding-top: 10px;
     padding-left: 25px;
     padding-bottom: 60px;
 
