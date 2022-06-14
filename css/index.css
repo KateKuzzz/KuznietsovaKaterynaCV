@@ -14,7 +14,7 @@ img {
     grid-template-columns: 1fr 1fr;
 }
 .name {
-    border:  10px solid rgb(144, 135, 103);
+    border:  5px solid rgb(144, 135, 103);
     margin: 0;
     margin-left: 25px;
     margin-bottom: 45px;
@@ -40,10 +40,10 @@ li {
     margin-top: 95px;
 }
 .resume_left{
-    border:  10px solid rgb(144, 135, 103) ;
+    border:  5px solid rgb(144, 135, 103) ;
     padding: 10px 10px 10px 10px;
 }
 .resume_aboutMe2{
-    border:  10px solid rgb(144, 135, 103);
+    border:  5px solid rgb(144, 135, 103);
     margin-left: 25px;
 }
