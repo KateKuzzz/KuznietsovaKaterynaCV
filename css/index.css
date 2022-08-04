@@ -1,12 +1,10 @@
 body {
     background-color: rgba(245, 238, 212, 0.796);
-    font-size: 14px;
-    line-height: 22px;
+    font-size: 12px;
+   
  
 }
-img {
-    border-radius: 60%;
-}
+
 ul {
     padding-left: 15px;
 }
@@ -17,15 +15,7 @@ ul {
     grid-template-columns: 1fr 1fr;
 }
 .name {
-    
-    border:  5px solid rgb(144, 135, 103);
-    
-    margin:0;
-    margin-left: 25px;
-    margin-bottom: 45px;
-    padding-top: 10px;
-    padding-left: 25px;
-    padding-bottom: 60px;
+    margin-left:20px;
 
 }
 .resume_aboutMe {
@@ -35,8 +25,8 @@ ul {
 }
 
 li {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 
 }
 .class_resume_about{
@@ -46,13 +36,17 @@ li {
     margin-left: 25px;
 }
 .resume_summary{
-    margin-top: 35px;
+    margin-top: 10px;
 }
 .resume_left{
     border:  5px solid rgb(144, 135, 103) ;
     padding: 10px 10px 10px 10px;
 }
-.resume_aboutMe2{
-    border:  5px solid rgb(144, 135, 103);
-    margin-left: 25px;
+
+
+.resume_right {
+    border:  5px solid rgb(144, 135, 103) ;
+    
+    margin-left: 5px;
 }
+
