@@ -1,11 +1,55 @@
 
+body {
+    background-color: rgba(245, 238, 212, 0.796);
+    font-size: 12px;
+   
+ 
+}
+
+ul {
+    padding-left: 15px;
+}
+
 
 .resume {
-    display: grid;
-    grid-template-columns: 1fr 1fr ;
-    margin-top: 50px;
-    background-color: rgb(80, 179, 127);
-    margin:auto;
-    padding: 25px 25px 25px 25px;
-};
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+}
+.name {
+    margin-left:20px;
 
+}
+.resume_aboutMe {
+   
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+li {
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+.class_resume_about{
+    width: 400;
+}
+.QA {
+    margin-left: 25px;
+}
+.resume_summary{
+    margin-top: 10px;
+}
+.resume_left{
+    border:  5px solid rgb(144, 135, 103) ;
+    padding: 10px 10px 10px 10px;
+}
+
+
+.resume_right {
+    border:  5px solid rgb(144, 135, 103) ;
+    
+    margin-left: 5px;
+}
+.Courses{
+    margin-left: 25px;
+}
